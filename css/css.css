@@ -1,0 +1,118 @@
+.align{
+  padding-left:1%;
+  padding-right:1;
+}
+
+.imgsize{
+  width:800px;
+  height:300px;
+}
+
+.imgsize2{
+  width:600px;
+  height:300px;
+}
+
+.para{
+  padding-left:1%;
+  padding-right:40%;
+  color:#fff;
+}
+
+.text{
+  color:#fff;
+  font-size:1.25rem;
+}
+
+#intro{
+  background-color:#0320fc;
+  color:#fff;
+  font-size:1.25rem;
+}
+
+.nav-link{
+  color:#fff;
+}
+
+.d-flex{
+color:#fff;
+}
+
+body{
+  background-color:#00005C;
+}
+
+.carouselImage{
+  height:300px;
+  width:350px;
+}
+
+.container-fluid{
+  padding:3% 15%;
+}
+
+
+]
+
+.container-fluid{
+  padding:3% 15%;
+}
+
+
+.navbar-brand{
+  color:#fff;
+  font-size:1.75rem;
+}
+
+h1{
+  font-size:3rem;
+  line-height:1.5;
+  font-weight:bold;
+}
+
+
+.nav-item{
+  padding:0 18px;
+}
+
+.download-button{
+  margin:5% 3% 5% 0;
+}
+
+#products{
+  text-align:center;
+}
+
+#stuff{
+  text-align:center;
+}
+
+.carouselImage{
+  height:150px;
+  width:150px;
+  border-radius:50%;
+}
+
+.fontawesome{
+  align:center;
+  height:150px;
+  width:150px;
+}
+
+.orders{
+  text-align:center;
+  color:#fff;
+}
+
+h3{
+  font-weight:bold;
+  color:#fff;
+}
+
+em{
+  color:#fff;
+}
+
+.fontgreat{
+  font-size:5rem;
+}
